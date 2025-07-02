@@ -1,2 +1,1 @@
-# Quotes
-test @ 2
+Built a multilingual emotion-to-quote prediction system using BERT. Trained a text classification model on a custom motivational quotes dataset to suggest appropriate quotes based on real-time user-input emotions.Python, Hugging Face Transformers, BERT (Multilingual), scikit-learn, Pandas, Google Colab, LabelEncoder, Datasets Library.
